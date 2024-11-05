@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\bin\Debug\net8.0\ConsoleAppIra9Snake.exe
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\bin\Debug\net8.0\ConsoleAppIra9Snake.deps.json
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\bin\Debug\net8.0\ConsoleAppIra9Snake.runtimeconfig.json
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\bin\Debug\net8.0\ConsoleAppIra9Snake.dll
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\bin\Debug\net8.0\ConsoleAppIra9Snake.pdb
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\obj\Debug\net8.0\ConsoleAppIra9Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\obj\Debug\net8.0\ConsoleAppIra9Snake.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\obj\Debug\net8.0\ConsoleAppIra9Snake.AssemblyInfo.cs
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\obj\Debug\net8.0\ConsoleAppIra9Snake.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\obj\Debug\net8.0\ConsoleAppIra9Snake.dll
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\obj\Debug\net8.0\refint\ConsoleAppIra9Snake.dll
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\obj\Debug\net8.0\ConsoleAppIra9Snake.pdb
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\obj\Debug\net8.0\ConsoleAppIra9Snake.genruntimeconfig.cache
+C:\Users\prdb\Desktop\JDJD\ConsoleAppIra9Snake\obj\Debug\net8.0\ref\ConsoleAppIra9Snake.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppIra9Snake/1.0.0": {
+        "runtime": {
+          "ConsoleAppIra9Snake.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppIra9Snake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
